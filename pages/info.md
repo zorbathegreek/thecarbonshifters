@@ -1,0 +1,83 @@
+---
+layout: page
+title: "About"
+subheadline: "How can we remove carbon from the atmosphere?"
+teaser: "Since years the global CO2 level is rising significantly because of fossil fuel consumption, but there is a simple technology to effectively bring it down through a worldwide effort:
+wood and biomass gasification, using a simple gasifier (top-lit updraft gasifiers a.k.a. TLUD) that produces black carbon i.e. charcoal. This carbon is intruduced into processes other than burning, or cooking, or incineration, and eventually returned to the soil, effectively inverting the mining and pumping of fossil carbon, and inverting the catastrophic climate effects. Billions of people, who now cook on wood and charcoal, can be included in this strategy. So can several industries that consume fossil fuels. If you consume electricity, drive cars, ride buses or airplanes, or make a living in the energy sector, it's up to you to join the effort to help fix the problem that we are all creating. You will be rewarded. "
+permalink: "/info/"
+
+
+header:
+    image_fullwidth: "header_drop.jpg"
+---
+The technology is about 30 years old, and these gasifiers can be applied by rural women while they cook food, in bakeries, brick factories, domestic heating, power generation ...used properly, the smoke and particle emissions are extremely low.
+
+_**The Carbon Shifters**_ unite the efforts of people who use wood or charcoal for their primary energy source with individuals and institutions who want to reduce their carbon footprint, and are interested to engage in the solution of the climate problem. 
+
+## Features
+
+* Rural people improve their habit from cooking on wood fires to cooking on wood gasifiers
+  * in the process they produce charcoal
+  * they use the char in sanitation and eventually agriculture ("terra preta")
+  * fuel cost and consumption is reduced, and even though fuel preparation requires labor, it is still more economical than a wood a fire
+  * fuel preparation creates jobs and income within the community
+  * smoke-free cooking when done right
+* We have developed a simple gasifier model, and had it successfully tested for emissions 
+* The how-to of our gasifier production is available as a video  
+* Gasifiers can easily be produced and maintained locally, by women groups
+  * we have successfully trained groups of women to fabricate their own devices 
+  * the women are independent from technicians unfamiliar to gasifiers 
+  * they are able to maintain their cookers on their own
+* We are looking for bakeries, brick factories, power generators, ... to apply this technology and participate in the financing scheme. 
+  * they should use reforested areas and/or continously reforest the plantation areas that they consume in order to not further imbalance their CO2 footprint
+  * they should send power or heat energy to consumers along with the char produced   
+  * the char comes back loaded with nutrients
+  * it is buried / reintroduced into the soil in agriculture and hence removed from the atmosphere for the next centuries/millenium.
+   
+   
+* We are looking for people and institutions ("CO2 producers") who are willing to pay a precentage (10%? 20%?) of their fossil fuel expenses to people who can prove that they are removing the CO2 from the atmoshere "for good" ("carbon shifters") that the "polluters" emitted
+* [Responsive Gallery][8], [Videos][9], [Grid][10], [Typography][11],...
+* 100% GitHub Pages friendly
+* Easy editable navigation, footer and social media links
+* Language Ready – just translate one file.
+* Lots of possibilities to customize it to your needs
+* Lots of different headers
+* Various post formats to let your content shine
+* Uses Jekyll 3.0
+* Multiple possibilities to use images in different ways
+* Fine typography
+* Play Video and Audio with [Mediaelement.js][12]
+
+
+
+## I got inspired by...
+
+[Michael Rose][1] and his fabulous [themes for jekyll][2]. Authors of [A List Apart][4] and [Smashing Magazine][5] since 2002. [GitHub][6] and how they built such a habitat for cooperation worldwide. [Automattic][3] and how they built a fantastic community around WordPress. And many, many more...
+
+Please make *Feeling Responsive* yours and if you like it, please link back to my homebase <a href="http://phlow.de/">Phlow</a>. That would be awesome.
+
+#### Since then, fork it!
+
+Yours sincerelly, [Moritz »mo.« Sauer][7]
+
+
+ [1]: http://mademistakes.com/about/
+ [2]: http://mademistakes.com/work/jekyll-themes/
+ [3]: http://automattic.com/
+ [4]: http://alistapart.com/
+ [5]: http://www.smashingmagazine.com/
+ [6]: https://github.com/
+ [7]: http://sauer.io
+ [8]: {{ site.url }}/design/gallery/
+ [9]: {{ site.url }}/design/video/
+ [10]: {{ site.url }}/design/grid/
+ [11]: {{ site.url }}/design/typography/
+ [12]: {{ site.url }}/design/mediaelement_js/
+ [13]: #
+ [14]: #
+ [15]: #
+ [16]: #
+ [17]: #
+ [18]: #
+ [19]: #
+ [20]: #
