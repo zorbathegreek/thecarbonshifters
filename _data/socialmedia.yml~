@@ -1,0 +1,15 @@
+- name: GitHub
+  url: http://github.com/phlow
+  class: icon-github
+  title: Code und mehr...
+
+- name: YouTube
+  url: http://www.youtube.com/PhlowMedia
+  class: icon-youtube
+  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+
+- name: Twitter
+  url: http://twitter.com/thecarbonshifters
+  class: icon-twitter
+  title: "News about The Carbon Shifters"
+
