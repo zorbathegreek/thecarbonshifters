@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 subheadline: "How can we remove carbon from the atmosphere?"
-teaser: "Since years the global CO2 level is rising significantly because of fossil fuel consumption, but there is a simple technology to effectively bring it down through a worldwide effort:
+teaser: "Since years the global CO2 level is rising because of fossil fuel consumption, but there is a simple technology to effectively bring it down through a worldwide effort:
 wood and biomass gasification, using a simple gasifier (top-lit updraft gasifiers a.k.a. TLUD) that produces black carbon i.e. charcoal. This carbon is introduced into processes other than burning, or cooking, or incineration, and eventually returned to the soil, effectively inverting the mining and pumping of fossil carbon, and inverting the catastrophic climate effects. Billions of people, who now cook on wood and charcoal, can be included in this strategy. So can several industries that consume fossil fuels. If you consume electricity, drive cars, ride buses or airplanes, or make a living in the energy sector, please join us to help fix the problem that we are all creating. We will try and reward you! "
 permalink: "/info/"
 
